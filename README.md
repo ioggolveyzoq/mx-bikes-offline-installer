@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+MX Bikes is a realistic motocross simulator, based on a scratch built physics engine that accurately simulates motorcycle dynamics and setup options.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | 2 Ghz CPU. VR: Intel Core i5-4590 (AMD FX 8350) or bett… | Intel Core i5 / Apple M1 |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | OpenGL 1.2.1 compatible GPU with 512 MB of video RAM. V… | Metal-capable GPU |
+| **DirectX** | Version 8.1 | Version 8.1 |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows XP | Windows XP |
 
 ---
 
